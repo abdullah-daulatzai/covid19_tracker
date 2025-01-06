@@ -8,6 +8,7 @@
 
 .confirm {
   border-bottom: 20px double rgba(0, 0, 255, 0.5);
+  width: 600px;
 }
 .recover {
   border-bottom: 20px double rgba(0, 255, 0, 0.5);
