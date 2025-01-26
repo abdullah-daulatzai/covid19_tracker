@@ -4,6 +4,13 @@
 Welcome to the Covid18 tracker README! This guide will walk you through everything you need to get started with the app.
 In the project directory, you can run:
 
+## Features
+* Real-time tracking of global Covid-19 cases, deaths, and recoveries.
+* Interactive charts powered by Chart.js to visualize the number of cases and deaths.
+* View daily, total, and recovered cases in a clear and concise format.
+* Dynamic updates using data from a public Covid-19 API.
+* Mobile-friendly design, ensuring easy access from any device.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
