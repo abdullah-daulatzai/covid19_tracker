@@ -24,7 +24,7 @@ The app gets real-time data from a free, publicly available API and is designed 
 
 ### ### Navigate into the repository: 
 
-`cd covid19-Tracker-`
+`cd covid19_tracker `
 ### Install dependencies:
 npm intsall 
 
