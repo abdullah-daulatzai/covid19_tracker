@@ -12,6 +12,10 @@ The app gets real-time data from a free, publicly available API and is designed 
 * Dynamic updates using data from a public Covid-19 API.
 * Mobile-friendly design, ensuring easy access from any device.
 
+## Tech Stack
+* Frontend: React, JavaScript, CSS, Material UI
+* Charting: Chart.js
+* Other Technologies: React hooks, Axios (for API calls)
 ### `npm start`
 
 Runs the app in the development mode.<br />
