@@ -1,7 +1,7 @@
-## Covid-19 Tracker
+# Covid-19 Tracker
 
-## Available Scripts
-
+## Overview 
+Welcome to the Covid18 tracker README! This guide will walk you through everything you need to get started with the app.
 In the project directory, you can run:
 
 ### `npm start`
